@@ -8,9 +8,9 @@ Repositório para armazenar resumos sobre Git e GitHub do curso de Versionamento
 
 💻**Resumos das Aulas**
 
-|Aulas | Resumos|
+|Aulas | Resumo|
 |-------|-------|
-|Introdução Versionamento de Código | [Resumos](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/68183181-bc0a-4b66-a877-42dd42b5bc9c?back=/track/santander-2024-preparatorio-certificacao-aws&tab=undefined&moduleId=undefined)
+|Introdução Versionamento de Código | [Resumo](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/68183181-bc0a-4b66-a877-42dd42b5bc9c?back=/track/santander-2024-preparatorio-certificacao-aws&tab=undefined&moduleId=undefined)
 |Criando e Clonando Repositórios |[Resumo](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/a377a00b-461c-4ab0-8258-3addd2fef14c?back=/track/santander-2024-preparatorio-certificacao-aws&tab=undefined&moduleId=undefined)
 Salvando Alterações no Repositório Local |[Resumo](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?back=/track/santander-2024-preparatorio-certificacao-aws&tab=undefined&moduleId=undefined)
 |Enviando e Baixando alterações no Repositório Remoto | [Resumo](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/dd17c56e-2327-493c-942a-358a49a26549?back=/track/santander-2024-preparatorio-certificacao-aws&tab=undefined&moduleId=undefined)
