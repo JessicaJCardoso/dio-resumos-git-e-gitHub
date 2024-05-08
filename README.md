@@ -1,6 +1,6 @@
 
 # DIO| Resumos Git e GitHub
-Repositório(Local) para armazenar resumos sobre Git e GitHub do curso de Versionamento de Código com Git e GitHub da [Digital Innovation One](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/f3cbaa66-efbd-4c25-842e-2069c188c066?back=/track/santander-2024-preparatorio-certificacao-aws&tab=undefined&moduleId=undefined)
+Repositório(Local) para armazenar resumos sobre Git e GitHub do curso de Versionamento de Código com Git  e GitHub da [Digital Innovation One](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/f3cbaa66-efbd-4c25-842e-2069c188c066?back=/track/santander-2024-preparatorio-certificacao-aws&tab=undefined&moduleId=undefined)
 
 📚 **Documentação**
 - [Documentação Git](https://git-scm.com/docs)
